@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+import Desenvolvedor from "geizekele";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
+}
+
 <!--
 **geizekele/geizekele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
