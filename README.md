@@ -1,15 +1,17 @@
-```js
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+```java
 import Desenvolvedor from "geizekele";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Geize Kele";
-  area = "Desenvolvedora back-end";
-  trabalho = "Estagiária IBM";
+  String nome = "Geize Kele";
+  String area = "Desenvolvedora back-end";
+  String trabalho = "Estagiária IBM";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java", "SQL"];
-  frameworks = ["Spring"];
+  String[] linguagens = {"Java", "SQL"};
+  String[] frameworks = {"Spring"};
 }
 ```
 
