@@ -17,8 +17,6 @@ class Skills extends Desenvolvedor {
   String[] frameworks = {"Spring"};
 }
 ```
-![](https://komarev.com/ghpvc/?username=geizekele&color=006bed)
-
 <h4>Onde me encontrar:</h4>
 <p align="left">
   <a href="#" alt="LinkedIn">
