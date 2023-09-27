@@ -14,7 +14,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   String[] linguagens = {"Java", "SQL"};
-  String[] frameworks = {"Spring"};
+  String[] frameworks = {"Spring", "PL/SQL"};
 }
 ```
 <h4>Onde me encontrar:</h4>
