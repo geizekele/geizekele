@@ -33,6 +33,6 @@ class Skills extends Desenvolvedor {
 
 <h4>Onde me encontrar:</h4>
 <p align="left">
-  <a href="https://www.linkedin.com/in/geize-kele/" target="_blank" rel="noopener" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/geize-kele/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geize-kele/" /></a>
 </p>
