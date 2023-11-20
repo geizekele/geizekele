@@ -11,8 +11,8 @@ import geizekele.Desenvolvedor;
 class SobreMim extends Desenvolvedor {
   String nome = "Geize Kele";
   String curso/faculdade = "Ciências da Computação";
-  String area = "Desenvolvedora back-end";
-  String trabalho = "Estagiária IBM";
+  String area = "T.I";
+  String trabalho = "Back-end Developer IBM";
 }
 
 class Skills extends Desenvolvedor {
