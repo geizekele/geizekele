@@ -10,9 +10,9 @@ import geizekele.Desenvolvedor;
 
 class SobreMim extends Desenvolvedor {
   String nome = "Geize Kele";
-  String curso/faculdade = "Ciências da Computação";
+  String curso/faculdade = "Ciências da Computação and ADS";
   String area = "T.I";
-  String trabalho = "Back-end Developer IBM";
+  String trabalho = "Back-end Java Developer";
 }
 
 class Skills extends Desenvolvedor {
