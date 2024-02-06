@@ -1,7 +1,6 @@
 ## Olá visitante! Sou a <strong>Geize Kele! ☕️</strong>
 
 <h4>Um pouquinho sobre mim:</h4>
-<p>Sou apaixonada por tecnologia desde que consegui meu primeiro computador (ainda uma criança) e adoro felinos tambem ❤</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
