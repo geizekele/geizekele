@@ -9,14 +9,13 @@ import geizekele.Desenvolvedor;
 
 class SobreMim extends Desenvolvedor {
   String nome = "Geize Kele";
-  String curso/faculdade = "Análise e Desenvolvimento de Sistemas";
-  String area = "T.I";
+  String cursoFaculdade = "Análise e Desenvolvimento de Sistemas";
   String trabalho = "Back-end Java Developer";
 }
 
 class Skills extends Desenvolvedor {
-  String[] linguagens = {"Java", "SQL"};
-  String[] frameworks = {"Spring", "PL/SQL"};
+  String[] linguagens = {"Java (Web)", "SQL (Oracle)"};
+  String[] frameworks = {"Spring Boot", "PL/SQL (Oracle Database)"};
 }
 ```
 <h4>Minhas Skills:</h4>
